@@ -1,0 +1,16 @@
+analyst,NetSuite,roles,Analyst
+developer,NetSuite,roles,Developer
+developerEx,NetSuite,roles,developerEx1
+developerEx,NetSuite,roles,developerEx2
+Netsuite Test 1,NetSuite (Sandbox Instance),roles,Analyst
+Netsuite Test 2,NetSuite (Sandbox Instance),roles,Consultant
+Netsuite,NetSuite (Sandbox Instance),subsidiary,Intel Corp
+analystCRMTest2,CRMDEV Rules Engine (Federated ID),profile,Standard User
+analystCRMTest2,CRMDEV Rules Engine (Federated ID),role,13907-CESG - East Compu\
+te
+analystCRMTest,CRMDEV Rules Engine (Federated ID),profile,Sales Rep
+analystCRMTest,CRMDEV Rules Engine (Federated ID),role,15055 - CESG
+analystCRMTest_Transfer_Cases,CRMDEV Rules Engine (Federated ID),salesforceGrou\
+ps,Transfer_Cases
+analystCRMTest_Product_Admin,CRMDEV Rules Engine (Federated ID),salesforceGroup\
+s,Product_Admin
